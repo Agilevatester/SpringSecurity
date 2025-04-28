@@ -48,9 +48,9 @@
                  </property>
             </activation>
             <modules>
-                <module>CVE-2013-4152</module>
+                <!--<module>CVE-2013-4152</module>
                 <module>CVE-2016-4977</module>
-                <module>CVE-2017-8046</module>
+                <module>CVE-2017-8046</module> -->
                 <module>CVE-2018-1259</module>
                 <module>CVE-2018-1260</module>
                 <module>CVE-2018-1261</module>
